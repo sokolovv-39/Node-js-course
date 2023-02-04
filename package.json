@@ -1,0 +1,23 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokolovv-39/Node-js-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokolovv-39/Node-js-course/issues"
+  },
+  "homepage": "https://github.com/sokolovv-39/Node-js-course#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
